@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ama-app
+  datasource:
+    url: ""
+  jpa:
+    generate-ddl: false
